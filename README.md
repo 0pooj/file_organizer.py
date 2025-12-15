@@ -54,6 +54,6 @@ git clone https://github.com/0pooj/file_organizer.py.git https://github.com/0poo
 cd file_organizer.py
 
 ```bash
-git clone [https://github.com/0pooj/file_organizer.py.git](https://github.com/0pooj/file_organizer.py.git)
+git clone https://github.com/0pooj/file_organizer.py.githttps://github.com/0pooj/file_organizer.py.git
 cd file_organizer.py
 
