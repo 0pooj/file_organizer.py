@@ -1,2 +1,50 @@
-# file_organizer.py
-This code is a simple and efficient program written in Python. Its main function is to organize and sort the files located within a specific folder (defined by the user) into subfolders organized according to the file type (images, documents, videos, etc.).
+# 📂 Python File Organizer
+
+This is a simple Python script that organizes files within a specified directory by moving them into subfolders based on their extension (e.g., Images, Videos, Documents).
+
+## ✨ Features
+
+* **Classification:** Categorizes files by type (images, videos, documents, archives, etc.).
+* **Automatic Folder Creation:** Creates necessary subfolders automatically if they do not exist.
+* **Simple Usage:** Easy to run from any terminal or command prompt.
+
+## ⚙️ How to Use
+
+### 1. Requirements
+
+* [Python 3](https://www.python.org/downloads/) must be installed on your system.
+
+### 2. Execution
+
+1.  Download the `file_organizer.py` file.
+2.  Open your Terminal, Command Prompt, or Termux, and navigate to the directory where the script is located.
+3.  Run the script using the command:
+
+    ```bash
+    python file_organizer.py
+    ```
+
+    **Note:** By default, the script organizes files in the same directory where it is run. If you want to organize a different folder, you may need to edit the `TARGET_DIR` variable inside the script.
+
+---
+
+### 🚀 Running on Termux
+
+If you are running this project from Termux and need to update your repository, follow these steps:
+
+1.  **Edit the file:** Use a text editor like `nano` to open the file:
+    ```bash
+    nano README.md
+    ```
+2.  **Add/Modify Content:** Paste your desired content or make your changes.
+3.  **Save and Exit:** Press `Ctrl+X`, then `Y` (for Yes), then `Enter`.
+4.  **Push to GitHub:** Execute the standard Git commands to upload your changes:
+    ```bash
+    git add .
+    git commit -m "Update README from Termux"
+    git push
+    ```
+
+---
+
+**Do you want the actual Python code for the `file_organizer.py` script as well, or are you ready to update your English `README.md` file?**
