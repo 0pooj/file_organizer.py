@@ -14,10 +14,13 @@ This is a simple Python script that organizes files within a specified directory
 
 * [Python 3](https://www.python.org/downloads/) must be installed on your system.
 
-### 2. Execution
+### 2. Get the Code (Cloning the Repository)
 
-1.  Download the `file_organizer.py` file.
-2.  Open your Terminal, Command Prompt, or Termux, and navigate to the directory where the script is located.
+Open your Terminal, Command Prompt, or Termux, and run the following commands to download the project:
+
+```bash
+git clone [https://github.com/0pooj/file_organizer.py.git](https://github.com/0pooj/file_organizer.py.git)
+cd file_organizer.py
 3.  Run the script using the command:
 
     ```bash
