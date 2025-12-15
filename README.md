@@ -50,7 +50,7 @@ If you are running this project from Termux and need to update your repository, 
 **Do you want the actual Python code for the `file_organizer.py` script as well, or are you ready to update your English `README.md` file?**
 
 ```bash
-git clone [https://github.com/0pooj/file_organizer.py.git](https://github.com/0pooj/file_organizer.py.git)
+git clone https://github.com/0pooj/file_organizer.py.git https://github.com/0pooj/file_organizer.py.git
 cd file_organizer.py
 
 ```bash
