@@ -13,11 +13,14 @@ This is a simple Python script that organizes files within a specified directory
 ### 1. Requirements
 
 * [Python 3](https://www.python.org/downloads/) must be installed on your system.
-* **Git** must be installed if cloning the repository.
 
-### 2. Clone the Repository
+### 2. Get the Code (Cloning the Repository)
 
-To get a copy of the project, use the following Git commands in your terminal:
+Open your Terminal, Command Prompt, or Termux, and run the following commands to download the project:
+
+```bash
+git clone [https://github.com/0pooj/file_organizer.py.git](https://github.com/0pooj/file_organizer.py.git)
+cd file_organizer.py
 
 ```bash
 git clone [https://github.com/0pooj/file_organizer.py.git](https://github.com/0pooj/file_organizer.py.git)
