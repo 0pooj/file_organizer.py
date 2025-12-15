@@ -21,6 +21,10 @@ Open your Terminal, Command Prompt, or Termux, and run the following commands to
 ```bash
 git clone [https://github.com/0pooj/file_organizer.py.git](https://github.com/0pooj/file_organizer.py.git)
 cd file_organizer.py
+
+```bash
+git clone [https://github.com/0pooj/file_organizer.py.git](https://github.com/0pooj/file_organizer.py.git)
+cd file_organizer.py
 3.  Run the script using the command:
 
     ```bash
